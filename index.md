@@ -8,9 +8,9 @@ Welcome to my homepage! My name is Yifan Guo(郭一凡). Now I’m a sophomore u
 
 ### Education
 
-Overall GPA: 3.90/4.3. Rank top 5\% of the School of the Gifted Young.
+Overall GPA: /4.3. Rank top \% of the School of the Gifted Young.
 
-Major GPA(Math): (4.11/4.3)(4.0/4.0) \hfill{Minor GPA(Computer Science): (4.16/4.3)(4.0/4.0)}
+Major GPA(Math): (/4.3)(4.0/4.0) \hfill{Minor GPA(Computer Science): (/4.3)(4.0/4.0)}
 
 ### Sports
 
